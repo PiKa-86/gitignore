@@ -1,1 +1,10 @@
 abs.txt
+
+
+senedler/*
+
+!senedler/sened1.txt
+
+dosyalar/*
+
+!dosyalar/dosya1.html
